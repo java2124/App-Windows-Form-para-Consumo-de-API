@@ -1,0 +1,15 @@
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.csprojAssemblyReference.cache
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.Form1.resources
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.Properties.Resources.resources
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.csproj.GenerateResource.cache
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.csproj.CoreCompileInputs.cache
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\bin\Debug\projetoforms.exe.config
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\bin\Debug\projetoforms.exe
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\bin\Debug\projetoforms.pdb
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.csproj.CopyComplete
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.exe
+C:\Users\MDBRA\source\repos\projetoforms\projetoforms\obj\Debug\projetoforms.pdb
